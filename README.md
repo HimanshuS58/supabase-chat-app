@@ -4,6 +4,7 @@ It leverages Supabase Realtime Channels for instant message broadcasting and Goo
 To run this project locally, Google OAuth credentials and Supabase environment variables must be configured.
 Screenshots of the running application have been included in the repository to provide a visual reference of the app’s functionality and UI.
 
+
 # URL
 https://himanshus58.github.io/supabase-chat-app/
 
