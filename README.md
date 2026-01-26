@@ -9,6 +9,6 @@ https://himanshus58.github.io/supabase-chat-app/
 
 
 # Output
-<img width="1919" height="856" alt="Screenshot 2026-01-26 141153" src="https://github.com/user-attachments/assets/81b4a9a0-fea0-4852-ab12-4160fb747de5" />
-<img width="1919" height="852" alt="Screenshot 2026-01-26 141240" src="https://github.com/user-attachments/assets/4ecefb0a-78e3-4fcb-a639-b6745b3f7531" />
 <img width="1919" height="807" alt="Screenshot 2026-01-26 141218" src="https://github.com/user-attachments/assets/64074e98-409e-43e4-b512-c0fbc49c4730" />
+<img width="1919" height="852" alt="Screenshot 2026-01-26 141240" src="https://github.com/user-attachments/assets/4ecefb0a-78e3-4fcb-a639-b6745b3f7531" />
+<img width="1919" height="856" alt="Screenshot 2026-01-26 141153" src="https://github.com/user-attachments/assets/81b4a9a0-fea0-4852-ab12-4160fb747de5" />
