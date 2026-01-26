@@ -4,7 +4,7 @@ It leverages Supabase Realtime Channels for instant message broadcasting and Goo
 
 ⚠️ Google OAuth is configured for this deployment. To run locally, you must configure your own Google OAuth credentials and Supabase environment variables.
 
-Screenshots of the running application have been included in the repository to provide a visual reference of the app’s functionality and UI.
+Screenshots of the running application have been included below to provide a visual reference of the app’s functionality and UI.
 
 
 # URL
