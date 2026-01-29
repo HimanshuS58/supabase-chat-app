@@ -38,7 +38,10 @@ function App() {
   const signIn = async () => {
 
     await supabase.auth.signInWithOAuth({
-      provider: 'google'
+      provider: 'google',
+        options: {
+    redirectTo: "https://supabase-chat-app-wo9j.onrender.com"
+  }
     });
   }
 
