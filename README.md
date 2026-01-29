@@ -8,7 +8,7 @@ Screenshots of the running application have been included below to provide a vis
 
 
 # URL
-https://himanshus58.github.io/supabase-chat-app/
+[https://himanshus58.github.io/supabase-chat-app/](https://supabase-chat-app-wo9j.onrender.com)
 
 
 # Output
